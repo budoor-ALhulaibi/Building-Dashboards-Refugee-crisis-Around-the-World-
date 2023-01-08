@@ -6,16 +6,16 @@ Dashboards are used to collect multiple sheets that exhibit one idea.
 
 
 Q 1
-Most refugees arrived from what country?
+what is Most refugees arrived from what country?
 
 Q 2
-Of the countries that had any refugees, which country had the least?
+the countries that had any refugees, which country had the least?
 
 Q3 
-This country has the largest number of refugees across all years?
+What country has the most significant number of refugees across all years ?
 
 Q4
-Which of these months below had the the largest number of refugees?
+ Which of these months below had the most significant number of refugees?
 
 
 
